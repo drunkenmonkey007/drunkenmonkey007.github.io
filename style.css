@@ -1,0 +1,25 @@
+body{
+	background-size: cover;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	margin: 270px;
+}
+
+p{
+	text-align: center;
+	border-color: FF2800
+	/*background-color: #FF2800;*/
+}
+.btn-primary{
+	background-color: #FF2800;
+}
+
+.btn-primary:hover{
+	background-color: #AFAF08;
+
+	border-color: #AFAF08;
+	padding: 1rem 2rem;
+}
